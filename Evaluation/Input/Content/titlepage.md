@@ -1,4 +1,4 @@
-# Building and evaluation of a PBPK model for COMPOUND in healthy adults
+# Building and evaluation of a PBPK model for BAY 79-4620 in mice
 
 
 
@@ -6,7 +6,7 @@
 
 | Version                                         | x.x-OSPy.y                                                   |
 | ----------------------------------------------- | ------------------------------------------------------------ |
-| based on *Model Snapshot* and *Evaluation Plan* | https://github.com/Open-Systems-Pharmacology/COMPOUND-Model/releases/tag/vx.x |
+| based on *Model Snapshot* and *Evaluation Plan* | https://github.com/Open-Systems-Pharmacology/BAY794620-Model/releases/tag/vx.x |
 | OSP Version                                     | y.y                                                          |
 | Qualification Framework Version                 | z.z                                                          |
 
